@@ -1,0 +1,14 @@
+/home/west/RiderProjects/WinComunity/WinComunity/bin/Debug/net9.0-windows/WinComunity
+/home/west/RiderProjects/WinComunity/WinComunity/bin/Debug/net9.0-windows/WinComunity.deps.json
+/home/west/RiderProjects/WinComunity/WinComunity/bin/Debug/net9.0-windows/WinComunity.runtimeconfig.json
+/home/west/RiderProjects/WinComunity/WinComunity/bin/Debug/net9.0-windows/WinComunity.dll
+/home/west/RiderProjects/WinComunity/WinComunity/bin/Debug/net9.0-windows/WinComunity.pdb
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.GeneratedMSBuildEditorConfig.editorconfig
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.AssemblyInfoInputs.cache
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.AssemblyInfo.cs
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.csproj.CoreCompileInputs.cache
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.dll
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/refint/WinComunity.dll
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.pdb
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/WinComunity.genruntimeconfig.cache
+/home/west/RiderProjects/WinComunity/WinComunity/obj/Debug/net9.0-windows/ref/WinComunity.dll

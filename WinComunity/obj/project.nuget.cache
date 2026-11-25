@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xkr/ioaouIs=",
+  "success": true,
+  "projectFilePath": "/home/west/RiderProjects/WinComunity/WinComunity/WinComunity.csproj",
+  "expectedPackageFiles": [
+    "/home/west/.nuget/packages/microsoft.windowsdesktop.app.ref/9.0.23/microsoft.windowsdesktop.app.ref.9.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
